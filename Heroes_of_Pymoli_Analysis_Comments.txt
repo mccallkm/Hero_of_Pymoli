@@ -1,0 +1,6 @@
+# Heroes Of Pymoli Data Analysis
+* There were 576 active players, the majority are male (84%).Female players account for (14%).
+
+* The demographic age distribution shows the 20-24 age group with (44.8%). Secondary groups fall between 15-19 (18.60%) and 25-29 (13.4%).  
+
+* The average purchase price is relatively flat at $4.00 per player with males carrying 2/3 of all purchases.
